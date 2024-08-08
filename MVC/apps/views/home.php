@@ -1,4 +1,4 @@
-<h1>Welcome ro the Home Page</h1>
+<h1>Welcome to the Home Page</h1>
 <h2>Users :</h2>
 <ul> 
     <?php foreach ($users as $user): ?>
